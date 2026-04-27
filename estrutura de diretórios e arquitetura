@@ -1,0 +1,7 @@
+/src
+  ├── /models          # Classes: Produto, Pedido, ItemPedido
+  ├── /services        # Regras de negócio, Descontos, Integração WhatsApp
+  ├── /controllers     # Intermediário entre View e Service
+  ├── /repositories    # Persistência via JSON Server (Fetch API)
+  ├── /patterns        # Implementação de Factory, Singleton, Strategy, Observer
+  └── /views           # Renderização e captura de eventos do DOM
